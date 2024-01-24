@@ -13,11 +13,11 @@ I'm Evan Jensen, a passionate Software Developer based out of Richland, Washingt
 
 ## 🔧 Skills & Technologies
 
-![Golang](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
+![Golang](https://img.shields.io/badge/-Golang-turquoise?style=flat&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white)
-![SQL](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-green?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat&logo=sql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-darkgreen?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-darkblue?style=flat&logo=c%2B%2B&logoColor=white)
 
 
 <!-- Add more skills and technologies -->

@@ -5,7 +5,7 @@ I'm Evan Jensen, a passionate Software Developer based out of Richland, Washingt
 
 ## 🚀 About Me
 
-- 💼 Software Engineer
+- 💼 Software Engineer, 2+ years experience Backend and Fullstack Software Engineering
 - 🎓 University of Washington Bothell, BS in Computer Science and Software Engineering
 - 🌱 I’m currently learning Javascript
 - 👯 Looking to collaborate on Web Development project
